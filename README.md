@@ -12,6 +12,6 @@
 
 ![Figma](https://img.shields.io/badge/FIGMA-75CBE4?style=for-the-badge&logo=figma&logoColor=white)
 
-![Notion]([https://img.shields.io/badge/NOTION-80C3FF?style=for-the-badge&logo=notion&logoColor=white)
+![Notion]([https://img.shields.io/badge/NOTION-DE6E91?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
