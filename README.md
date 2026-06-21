@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Altair-Foxy/Altair-Foxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 🦊 Jikang Hwang | Altair
+  
+  ### Director / Lead Game Designer of Studio Glacial Kitsune 
+  ### Subculture Enjoyer
+  ### Hobbyist Character Designer (Beginner)
 
-Here are some ideas to get you started:
+![Unity](https://img.shields.io/badge/UNITY-202020?style=for-the-badge&logo=unity&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unreal Engine](https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+![Figma](https://img.shields.io/badge/FIGMA-75CBE4?style=for-the-badge&logo=figma&logoColor=white)
+
+![Notion]([https://img.shields.io/badge/NOTION-80C3FF?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
