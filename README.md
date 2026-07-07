@@ -5,6 +5,7 @@
   ### Director / Lead Game Designer of Studio Glacial Kitsune 
   ### Subculture Enjoyer
   ### Hobbyist Character Designer (Beginner)
+  ### My Linktree: https://linktr.ee/altairthefox
 
 ![Unity](https://img.shields.io/badge/UNITY-202020?style=for-the-badge&logo=unity&logoColor=white)
 
