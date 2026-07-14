@@ -15,3 +15,6 @@
 ![Notion](https://img.shields.io/badge/NOTION-DE6E91?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
+
+Business Inquiries:
+director@sgkitsune.com
