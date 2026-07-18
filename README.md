@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🦊 Jikang Hwang | Altair
+  # 🦊 Altair
   
   ### Director / Lead Game Designer of Studio Glacial Kitsune 
   ### Subculture Enjoyer
